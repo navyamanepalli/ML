@@ -24,3 +24,5 @@ Instructions:
 
 Note : Current laptop configuration and state was very slow for me to execute the tasks.
 While Deploying the web service, my AWS free credits expired and started billing. Hence I couldnt deploy it now. 
+
+I tried Heroku. However, since my pickle file is too huge, github is unable to take that file. 
